@@ -177,7 +177,6 @@ window.syscallnames =
   "sys_thr_wake": 443,
   "sys_kldunloadf": 444,
   "sys__umtx_op": 454,
-  "sys__umtx_op": 454,
   "sys_thr_new": 455,
   "sys_sigqueue": 456,
   "sys_thr_set_name": 464,
